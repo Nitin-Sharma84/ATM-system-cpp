@@ -13,4 +13,4 @@ This is a simple ATM simulation program written in C++.
 C++
 
 ## Author
-Your Name
+Nitin J Sharma
